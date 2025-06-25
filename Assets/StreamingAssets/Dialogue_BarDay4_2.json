@@ -1,0 +1,20 @@
+{
+  "characters": [
+    { "key": "yoka", "name": "Ёка", "color": "#ff5555" },
+    { "key": "rich", "name": "Рич", "color": "#78866b" }
+  ],
+  "dialogue": [
+    {
+      "speaker": "rich",
+      "text": "До завтра, на работе барышня."
+    },
+    {
+      "speaker": "rich",
+      "text": "Расскажете потом, что там будет."
+    },
+    {
+      "speaker": "yoka",
+      "text": "Пойду домой, обдумаю всё."
+    }
+  ]
+}

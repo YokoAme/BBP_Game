@@ -1,0 +1,816 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\BBP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\HomeDay1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day1\\HomeDay1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\DayTransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DayTransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SaveSystem\\SaveSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SaveSystem\\SaveSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day2\\HomeDay2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day2\\HomeDay2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day2\\OfficeDay2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day2\\OfficeDay2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day2\\LunchDay2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day2\\LunchDay2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\LunchDay1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day1\\LunchDay1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SaveSystem\\SaveData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SaveSystem\\SaveData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\DialogueManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DialogueManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene2_Day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day1\\Bar\\BarScene2_Day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene1_Day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day1\\Bar\\BarScene1_Day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\DossiersList.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\DossiersList.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene4_Day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day1\\Bar\\BarScene4_Day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene3_Day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day1\\Bar\\BarScene3_Day1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\CocktailResultPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cooking\\CocktailResultPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SaveSystem\\GameFlow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SaveSystem\\GameFlow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SpriteEnter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SpriteEnter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\RecipeViewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cooking\\RecipeViewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\ShakerZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cooking\\ShakerZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\IngredientSource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cooking\\IngredientSource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\masha\\BBP\\Assets\\Scripts\\Cooking\\IngredientSpawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\DraggedIngredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cooking\\DraggedIngredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\masha\\BBP\\Assets\\Scripts\\Cooking\\DraggableIngredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\masha\\BBP\\Assets\\Scripts\\Cooking\\IngredientItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperDrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\PaperDrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\Dialogue_LunchDay1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\Dialogue_LunchDay1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\Dialogue_OfficeDay1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\Dialogue_OfficeDay1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\OfficeDay1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day1\\OfficeDay1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\LunchScene1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Days\\Day1\\LunchScene1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\masha\\BBP\\Assets\\Days\\Day1\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\Day1_Cards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\Day1_Cards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SortSceneManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SortSceneManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\ScreenFade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ScreenFade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\SceneIntroManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\SceneIntroManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\PaperCard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\masha\\BBP\\Assets\\Scripts\\Sort\\CardSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\CardMeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\CardMeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\masha\\BBP\\Assets\\Scripts\\MainMenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\SlideInUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\SlideInUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\DossierCardData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\DossierCardData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\FolderType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\FolderType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\FolderHighlighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\FolderHighlighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperStackHover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\PaperStackHover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperHoverEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\PaperHoverEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\masha\\BBP\\Assets\\StreamingAssets\\docs\\Day1_Cards.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\JsonHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\JsonHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\ClickCatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sort\\ClickCatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OfficeDay2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day2\\OfficeDay2.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day2\\OfficeDay2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day2\\OfficeDay2.cs",
+              "RelativeToolTip": "Assets\\Days\\Day2\\OfficeDay2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:15:08.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LunchDay2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day2\\LunchDay2.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day2\\LunchDay2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day2\\LunchDay2.cs",
+              "RelativeToolTip": "Assets\\Days\\Day2\\LunchDay2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:15:01.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeDay2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day2\\HomeDay2.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day2\\HomeDay2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day2\\HomeDay2.cs",
+              "RelativeToolTip": "Assets\\Days\\Day2\\HomeDay2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:14:55.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DayTransition.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\DayTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DayTransition.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\DayTransition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DayTransition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:06:18.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveSystem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SaveSystem\\SaveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SaveSystem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SaveSystem\\SaveSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SaveSystem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:33:19.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:32:50.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BarScene2_Day1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene2_Day1.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day1\\Bar\\BarScene2_Day1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene2_Day1.cs",
+              "RelativeToolTip": "Assets\\Days\\Day1\\Bar\\BarScene2_Day1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:25:21.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeDay1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\HomeDay1.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day1\\HomeDay1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\HomeDay1.cs",
+              "RelativeToolTip": "Assets\\Days\\Day1\\HomeDay1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:08:12.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BarScene4_Day1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene4_Day1.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day1\\Bar\\BarScene4_Day1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene4_Day1.cs",
+              "RelativeToolTip": "Assets\\Days\\Day1\\Bar\\BarScene4_Day1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:44:21.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BarScene1_Day1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene1_Day1.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day1\\Bar\\BarScene1_Day1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene1_Day1.cs",
+              "RelativeToolTip": "Assets\\Days\\Day1\\Bar\\BarScene1_Day1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:05:31.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LunchDay1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\LunchDay1.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day1\\LunchDay1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\LunchDay1.cs",
+              "RelativeToolTip": "Assets\\Days\\Day1\\LunchDay1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:17:49.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BarScene3_Day1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene3_Day1.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day1\\Bar\\BarScene3_Day1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\Bar\\BarScene3_Day1.cs",
+              "RelativeToolTip": "Assets\\Days\\Day1\\Bar\\BarScene3_Day1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:32:39.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SpriteEnter.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SpriteEnter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpriteEnter.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SpriteEnter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpriteEnter.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:03:12.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DossiersList.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\DossiersList.json",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\DossiersList.json",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\DossiersList.json",
+              "RelativeToolTip": "Assets\\StreamingAssets\\DossiersList.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T09:10:58.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\DialogueManager.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueManager.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwFwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:36:51.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameFlow.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SaveSystem\\GameFlow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem\\GameFlow.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SaveSystem\\GameFlow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem\\GameFlow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T03:15:00.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecipeViewer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\RecipeViewer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cooking\\RecipeViewer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\RecipeViewer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cooking\\RecipeViewer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:42:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CocktailResultPanel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\CocktailResultPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cooking\\CocktailResultPanel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\CocktailResultPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cooking\\CocktailResultPanel.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:11:47.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DraggedIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\DraggedIngredient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cooking\\DraggedIngredient.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\DraggedIngredient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cooking\\DraggedIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:18:20.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IngredientSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\BBP\\Assets\\Scripts\\Cooking\\IngredientSpawn.cs",
+              "RelativeDocumentMoniker": "..\\..\\masha\\BBP\\Assets\\Scripts\\Cooking\\IngredientSpawn.cs",
+              "ToolTip": "C:\\Users\\masha\\BBP\\Assets\\Scripts\\Cooking\\IngredientSpawn.cs",
+              "RelativeToolTip": "..\\..\\masha\\BBP\\Assets\\Scripts\\Cooking\\IngredientSpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:10:11.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShakerZone.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\ShakerZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cooking\\ShakerZone.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\ShakerZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cooking\\ShakerZone.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAiwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:54:33.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DraggableIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\BBP\\Assets\\Scripts\\Cooking\\DraggableIngredient.cs",
+              "RelativeDocumentMoniker": "..\\..\\masha\\BBP\\Assets\\Scripts\\Cooking\\DraggableIngredient.cs",
+              "ToolTip": "C:\\Users\\masha\\BBP\\Assets\\Scripts\\Cooking\\DraggableIngredient.cs",
+              "RelativeToolTip": "..\\..\\masha\\BBP\\Assets\\Scripts\\Cooking\\DraggableIngredient.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:53:55.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IngredientSource.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\IngredientSource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cooking\\IngredientSource.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Cooking\\IngredientSource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cooking\\IngredientSource.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwGMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:52:20.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IngredientItem.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\BBP\\Assets\\Scripts\\Cooking\\IngredientItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\masha\\BBP\\Assets\\Scripts\\Cooking\\IngredientItem.cs",
+              "ToolTip": "C:\\Users\\masha\\BBP\\Assets\\Scripts\\Cooking\\IngredientItem.cs",
+              "RelativeToolTip": "..\\..\\masha\\BBP\\Assets\\Scripts\\Cooking\\IngredientItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:41:32.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dialogue_OfficeDay1.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\Dialogue_OfficeDay1.json",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Dialogue_OfficeDay1.json",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\Dialogue_OfficeDay1.json",
+              "RelativeToolTip": "Assets\\StreamingAssets\\Dialogue_OfficeDay1.json",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T09:57:34.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dialogue_LunchDay1.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\Dialogue_LunchDay1.json",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Dialogue_LunchDay1.json",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\Dialogue_LunchDay1.json",
+              "RelativeToolTip": "Assets\\StreamingAssets\\Dialogue_LunchDay1.json",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T09:23:57.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LunchScene1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\LunchScene1.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day1\\LunchScene1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\LunchScene1.cs",
+              "RelativeToolTip": "Assets\\Days\\Day1\\LunchScene1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:15:13.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Day1_Cards.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\Day1_Cards.json",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Day1_Cards.json",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\StreamingAssets\\Day1_Cards.json",
+              "RelativeToolTip": "Assets\\StreamingAssets\\Day1_Cards.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T09:11:04.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaperDrag.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperDrag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\PaperDrag.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperDrag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\PaperDrag.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:02:51.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OfficeDay1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\OfficeDay1.cs",
+              "RelativeDocumentMoniker": "Assets\\Days\\Day1\\OfficeDay1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Days\\Day1\\OfficeDay1.cs",
+              "RelativeToolTip": "Assets\\Days\\Day1\\OfficeDay1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:12:40.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\BBP\\Assets\\Days\\Day1\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "..\\..\\masha\\BBP\\Assets\\Days\\Day1\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\masha\\BBP\\Assets\\Days\\Day1\\NewBehaviourScript.cs",
+              "RelativeToolTip": "..\\..\\masha\\BBP\\Assets\\Days\\Day1\\NewBehaviourScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:10:43.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SlideInUI.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\SlideInUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\SlideInUI.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\SlideInUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\SlideInUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:29:56.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SceneIntroManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\SceneIntroManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\SceneIntroManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\SceneIntroManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\SceneIntroManager.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:12:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ScreenFade.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\ScreenFade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenFade.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\ScreenFade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScreenFade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:00:58.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FolderType.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\FolderType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\FolderType.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\FolderType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\FolderType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:21:54.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Day1_Cards.json",
+              "DocumentMoniker": "C:\\Users\\masha\\BBP\\Assets\\StreamingAssets\\docs\\Day1_Cards.json",
+              "RelativeDocumentMoniker": "..\\..\\masha\\BBP\\Assets\\StreamingAssets\\docs\\Day1_Cards.json",
+              "ToolTip": "C:\\Users\\masha\\BBP\\Assets\\StreamingAssets\\docs\\Day1_Cards.json",
+              "RelativeToolTip": "..\\..\\masha\\BBP\\Assets\\StreamingAssets\\docs\\Day1_Cards.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T16:01:27.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DossierCardData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\DossierCardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\DossierCardData.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\DossierCardData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\DossierCardData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:53:53.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CardMeta.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\CardMeta.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\CardMeta.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\CardMeta.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\CardMeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:52:28.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SortSceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SortSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SortSceneManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\SortSceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SortSceneManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwEwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:14:35.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JsonHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\JsonHelper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JsonHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:52:07.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CardSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\BBP\\Assets\\Scripts\\Sort\\CardSpawner.cs",
+              "RelativeDocumentMoniker": "..\\..\\masha\\BBP\\Assets\\Scripts\\Sort\\CardSpawner.cs",
+              "ToolTip": "C:\\Users\\masha\\BBP\\Assets\\Scripts\\Sort\\CardSpawner.cs",
+              "RelativeToolTip": "..\\..\\masha\\BBP\\Assets\\Scripts\\Sort\\CardSpawner.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:51:36.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:49:34.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FolderHighlighter.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\FolderHighlighter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\FolderHighlighter.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\FolderHighlighter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\FolderHighlighter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:10:15.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PaperStackHover.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperStackHover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\PaperStackHover.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperStackHover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\PaperStackHover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:48:41.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ClickCatcher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\ClickCatcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\ClickCatcher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\ClickCatcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\ClickCatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:08:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PaperCard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\PaperCard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\PaperCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:07:18.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PaperHoverEffect.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperHoverEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sort\\PaperHoverEffect.cs",
+              "ToolTip": "C:\\Users\\ASUS\\BBP\\Assets\\Scripts\\Sort\\PaperHoverEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sort\\PaperHoverEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:03:27.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\BBP\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\masha\\BBP\\Assets\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\masha\\BBP\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeToolTip": "..\\..\\masha\\BBP\\Assets\\Scripts\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:47:11.968Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

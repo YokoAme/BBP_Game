@@ -1,0 +1,23 @@
+{
+  "characters": [
+    {
+      "key": "yoka",
+      "name": "Ёка",
+      "color": "#ff5555"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "yoka",
+      "text": "Странно, никого нет."
+    },
+    {
+      "speaker": "",
+      "text": "…"
+    },
+    {
+      "speaker": "yoka",
+      "text": "Обычно босс всегда встречал меня."
+    }
+  ]
+}

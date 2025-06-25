@@ -1,0 +1,7 @@
+[
+  { "spriteName": "Doc1", "correctFolder": "Blue" },
+  { "spriteName": "Doc2", "correctFolder": "Red" },
+  { "spriteName": "Doc3", "correctFolder": "Blue" },
+  { "spriteName": "Doc4", "correctFolder": "Red" },
+  { "spriteName": "Doc5", "correctFolder": "Blue" }
+]

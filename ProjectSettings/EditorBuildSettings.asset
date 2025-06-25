@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menus/MainMenuScene.unity
+    guid: d4ad445e4b979194c96706cd5a376cd3
+  - enabled: 1
+    path: Assets/Days/Day1/Scenes/OfficeScene.unity
+    guid: 87bb75195408fe64f80049aba428e5b8
+  - enabled: 1
+    path: Assets/Days/Day1/Scenes/SortScene.unity
+    guid: c644e1aa011baf742a322b59862f47c5
+  - enabled: 1
+    path: Assets/Days/Day1/Scenes/LunchSceneD1.unity
+    guid: db7a61f86372a0247ae4f6346febadfb
+  - enabled: 1
+    path: Assets/Days/Day1/Scenes/BarScene.unity
+    guid: 3aa67bd54ddd6d7419cd28bea0c84e01
+  - enabled: 1
+    path: Assets/Days/Day1/Scenes/CookingScene.unity
+    guid: 327bd557f26a8324e8ace375abae39dd
+  - enabled: 1
+    path: Assets/Days/Day1/Scenes/BarScene1.unity
+    guid: 3e7aeeea8588d9a408b2fc6936d6f836
+  - enabled: 1
+    path: Assets/Days/Day1/Scenes/BarScene2.unity
+    guid: 7ecd6e94620819e49b67a71835659679
+  - enabled: 1
+    path: Assets/Days/Day1/Scenes/BarScene3.unity
+    guid: e54fd1c1aef175f49b2d6fb2f343ea72
+  - enabled: 1
+    path: Assets/Days/Day1/Scenes/HomeScene.unity
+    guid: e415f89524ec67c41a1e34653fce3c42
+  - enabled: 1
+    path: Assets/Days/Day2/Scenes/OfficeSceneD2.unity
+    guid: 510d6012b00edcb4f8383287e9bcf85f
+  - enabled: 1
+    path: Assets/Menus/DayTransition.unity
+    guid: e2c565e5825c4d945b287a20bdf87d98
+  - enabled: 1
+    path: Assets/Days/Day2/Scenes/LunchSceneD2.unity
+    guid: 5de24688311865a4da911aa547cf295c
+  - enabled: 0
+    path: Assets/Days/Day2/Scenes/SortSceneD2.unity
+    guid: df67367ba0b2c474b80dc11cbf206050
+  - enabled: 1
+    path: Assets/Days/Day2/Scenes/BarSceneD2.unity
+    guid: dbb9ec7ac74320343aeb7553636cda22
+  - enabled: 1
+    path: Assets/Days/Day2/Scenes/BarScene1D2.unity
+    guid: 0851c245908d477418c47bff16cf3d91
+  - enabled: 1
+    path: Assets/Days/Day2/Scenes/BarScene2D2.unity
+    guid: bf6ed88d762fa774e981a95e848b5b37
+  - enabled: 0
+    path: Assets/Days/Day2/Scenes/BarScene3D2.unity
+    guid: 143a8ec5b2ac93040bd8baf2cad4a33e
+  - enabled: 1
+    path: Assets/Days/Day2/Scenes/HomeSceneD2.unity
+    guid: b8b98bca24216b449b0f278f17b9f3f1
+  - enabled: 1
+    path: Assets/Days/Day2/Scenes/Inc.unity
+    guid: 08eebcb928209ae43b935853d02d2010
+  - enabled: 1
+    path: Assets/Days/Day3/Scenes/OfficeSceneD3.unity
+    guid: 63a942ed0026e7c47b7c84a7e2d9c348
+  - enabled: 1
+    path: Assets/Days/Day3/Scenes/LunchSceneD3.unity
+    guid: 9df1a954b5aa1654a8cb327b19878b93
+  - enabled: 1
+    path: Assets/Days/Day3/Scenes/BarSceneD3.unity
+    guid: e59d2257afae4494aafc0e26df069889
+  - enabled: 1
+    path: Assets/Days/Day3/Scenes/BarScene1D3.unity
+    guid: 42879b1732dd70242904ba289e6ac2e9
+  - enabled: 1
+    path: Assets/Days/Day3/Scenes/BarScene2D3.unity
+    guid: f4d96d60db92bf54493d9d1bdb0d2d34
+  - enabled: 1
+    path: Assets/Days/Day3/Scenes/BarScene3D3.unity
+    guid: 6b711c1b39d447540849cedc95816718
+  - enabled: 1
+    path: Assets/Days/Day3/Scenes/HomeSceneD3.unity
+    guid: 3ea6c78890493834b844ec28900d4df7
+  - enabled: 1
+    path: Assets/Days/Day3/Scenes/IncD3.unity
+    guid: 2b7f8ccf62de2b04a90c6ce4faa4676c
+  - enabled: 1
+    path: Assets/Days/Day4/Scenes/OfficeSceneD4.unity
+    guid: a72bfe754b2468a438374d85a4620043
+  - enabled: 1
+    path: Assets/Days/Day4/Scenes/LunchSceneD4.unity
+    guid: 6ca12c333a2ef724a999da072f803cf1
+  - enabled: 1
+    path: Assets/Days/Day4/Scenes/BarSceneD4.unity
+    guid: 0e3d628b9fbe98a4498bc7cf9cf43d4e
+  - enabled: 1
+    path: Assets/Days/Day4/Scenes/BarScene1D4.unity
+    guid: 9b1fe52499962f94b8643d6db2a695a5
+  - enabled: 1
+    path: Assets/Days/Day5/Ending_Neutral/Ending_Goriy.unity
+    guid: 32a744e976490974e98a22eebbd2d9bf
+  - enabled: 1
+    path: Assets/Days/Day5/Ending_Good/Ending_Yoka.unity
+    guid: f4df9c6d67f6d084196cad0120c49071
+  - enabled: 1
+    path: Assets/Days/Day5/Ending_Bad/Ending_Boss.unity
+    guid: 5227f00823a6d284eaa969559a9434ea
+  - enabled: 1
+    path: Assets/Days/Day5/Ending_Good/OfficeYoka.unity
+    guid: 484218d70fbe27e4ebc2bb2b509707d5
+  - enabled: 1
+    path: Assets/Days/Day5/Ending_Bad/OfficeBoss.unity
+    guid: aa007a23d9643ff40838cc0e1ddf0fd8
+  - enabled: 1
+    path: Assets/Days/Day5/Ending_Neutral/OfficeGoriy.unity
+    guid: 9b2c4eec0e82884408cfbd8719cad9bb
+  m_configObjects: {}

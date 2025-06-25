@@ -1,0 +1,79 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Воспоминания о прошлой жизни",
+      "ingredients": ["strawberry", "grape", "ice", "tube"]
+    },
+    {
+      "id": 2,
+      "name": "Апельсиновое настроение",
+      "ingredients": ["orange", "banana", "ice", "umbrella"]
+    },
+    {
+      "id": 3,
+      "name": "Электролит в чистом виде",
+      "ingredients": ["banana", "apple", "umbrella", "star"]
+    },
+    {
+      "id": 4,
+      "name": "Яблоко",
+      "ingredients": ["apple", "strawberry", "ice", "tube"]
+    },
+    {
+      "id": 5,
+      "name": "Последний закат",
+      "ingredients": ["grape", "orange", "umbrella", "star"]
+    },
+    {
+      "id": 6,
+      "name": "Обсидиановый мусс",
+      "ingredients": ["grape", "apple", "star", "tube"]
+    },
+    {
+      "id": 7,
+      "name": "Летние каникулы",
+      "ingredients": ["banana", "strawberry", "orange", "ice"]
+    },
+    {
+      "id": 8,
+      "name": "Витаминный морс",
+      "ingredients": ["star", "strawberry", "tube", "ice"]
+    },
+    {
+      "id": 9,
+      "name": "Грани эмоций",
+      "ingredients": [ "apple", "orange", "banana", "grape" ]
+    },
+    {
+      "id": 10,
+      "name": "Память номер 7",
+      "ingredients": ["star", "grape", "ice", "tube"]
+    },
+    {
+      "id": 11,
+      "name": "Угасший свет",
+      "ingredients": ["orange", "tube", "strawberry", "star"]
+    },
+    {
+      "id": 12,
+      "name": "Кислотный дождь",
+      "ingredients": ["grape", "umbrella", "apple", "banana"]
+    },
+    {
+      "id": 13,
+      "name": "Заморозка",
+      "ingredients": ["strawberry", "grape", "star", "ice"]
+    },
+    {
+      "id": 14,
+      "name": "Счастье",
+      "ingredients": ["orange", "tube", "banana", "ice"]
+    },
+    {
+      "id": 15,
+      "name": "Пастельный сон",
+      "ingredients": ["apple", "strawberry", "umbrella", "ice"]
+    }
+  ]
+}

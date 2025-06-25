@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {
+      "key": "yuki",
+      "name": "Юки",
+      "color": "#5AC8FA"
+    },
+    {
+      "key": "yoka",
+      "name": "Ёка",
+      "color": "#ff5555"
+    },
+    {
+      "key": "goriy",
+      "name": "Горий",
+      "color": "#D2B48C"
+    }
+  ],
+  "dialogue": [
+    { "speaker": "goriy", "text": "Кстати, мы с вами случайно не знакомы?" },
+    { "speaker": "yoka", "text": "Да, мы работали вместе в Бюро Последнего Пути." },
+    { "speaker": "goriy", "text": "Ого, вы там работали?" },
+    { "speaker": "goriy", "text": "Иоко, это вы?" },
+    { "speaker": "yoka", "text": "Да, это я. Правда, сейчас меня уже так никто не называет." },
+    { "speaker": "goriy", "text": "Госпожа Юки, пройдёмте к тем столикам." },
+    { "speaker": "yuki",  "text": "Хорошо." },
+    { "speaker": "",  "text": "" },
+    { "speaker": "yoka", "text": "Ладно, буду собираться домой." }
+  ]
+}

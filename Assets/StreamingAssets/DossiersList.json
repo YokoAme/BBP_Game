@@ -1,0 +1,48 @@
+{
+  "dossiers": [
+    {
+      "sprite": "Doc1",
+      "correctFolder": "red"
+    },
+    {
+      "sprite": "Doc2",
+      "correctFolder": "blue"
+    },
+    {
+      "sprite": "Doc3",
+      "correctFolder": "red"
+    },
+    {
+      "sprite": "Doc4",
+      "correctFolder": "blue"
+    },
+    {
+      "sprite": "Doc5",
+      "correctFolder": "red"
+    },
+    {
+      "sprite": "Doc6",
+      "correctFolder": "blue"
+    },
+    {
+      "sprite": "Doc7",
+      "correctFolder": "red"
+    },
+    {
+      "sprite": "Doc8",
+      "correctFolder": "blue"
+    },
+    {
+      "sprite": "Doc9",
+      "correctFolder": "red"
+    },
+    {
+      "sprite": "Doc10",
+      "correctFolder": "blue"
+    },
+    {
+      "sprite": "Doc11",
+      "correctFolder": "red"
+    }
+  ]
+}
